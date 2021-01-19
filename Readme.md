@@ -2,7 +2,7 @@
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-## I'm a Informaton Technology Student (2nd Year) at IIIT Sonepat
+## I'm a Informaton Technology Student (2nd Year B.Tech) at IIIT Sonepat
 
 -   👨‍💻 I’m currently working on web development technologies like React, Node.js etc.
 -   🗒️ Current Open Source Project Contributions : [GDevelop](https://gdevelop-app.com/) 
@@ -43,16 +43,12 @@
 
 ---
 
-<br/>
-
   <h2 align="center"> Github Statistics 📈 </h2>
   
   <div align="center">    
       <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=INNOVATIVEGAMER&show_icons=true&include_all_commits=true&count_private=true&theme=react&line_height=40" />
       <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=INNOVATIVEGAMER&theme=react&line_height=40&hide=css"/>
 </div
-  
-<br/>
 
 [website]: https://github.com/INNOVATIVEGAMER
 [instagram]: https://www.instagram.com/prasad_patewar/
