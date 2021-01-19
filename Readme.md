@@ -5,6 +5,7 @@
 ## I'm a Informaton Technology Student
 
 -   👨‍💻 I’m currently working on web development technologies like React, Node.js etc.
+-   🗒️ Current Open Source Project [GDevelop](https://gdevelop-app.com/) 
 -   📚 I’m currently learning everything about Frontend and Backend web technologies 😅
 -   💪🏼 Future Goals: Learn more technologies and create awesome projects - Innovation Is Life.
 
@@ -52,12 +53,6 @@
 </div
   
 <br/>
-
----
-
-### ⭐️ From [Bgstatic](https://github.com/Bgstatic)
-
----
 
 [website]: https://github.com/INNOVATIVEGAMER
 [instagram]: https://www.instagram.com/prasad_patewar/
