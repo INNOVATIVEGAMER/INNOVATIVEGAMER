@@ -5,7 +5,7 @@
 ## I'm a Informaton Technology Student
 
 -   👨‍💻 I’m currently working on web development technologies like React, Node.js etc.
--   🗒️ Current Open Source Project [GDevelop](https://gdevelop-app.com/) 
+-   🗒️ Current Open Source Project Contributions : [GDevelop](https://gdevelop-app.com/) 
 -   📚 I’m currently learning everything about Frontend and Backend web technologies 😅
 -   💪🏼 Future Goals: Learn more technologies and create awesome projects - Innovation Is Life.
 
