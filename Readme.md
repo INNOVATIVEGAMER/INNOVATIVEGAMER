@@ -2,7 +2,7 @@
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-## I'm a Informaton Technology Student
+## I'm a Informaton Technology Student (2nd Year) at IIIT Sonepat
 
 -   👨‍💻 I’m currently working on web development technologies like React, Node.js etc.
 -   🗒️ Current Open Source Project Contributions : [GDevelop](https://gdevelop-app.com/) 
