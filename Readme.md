@@ -2,11 +2,11 @@
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-## I'm a Informaton Technology Student (2nd Year B.Tech) at IIIT Sonepat
+## I'm a Informaton Technology Student (3rd Year B.Tech) at IIIT Sonepat
 
 -   👨‍💻 I’m currently working on web development technologies like React, Node.js etc.
--   🗒️ Current Open Source Project Contributions : [GDevelop](https://gdevelop-app.com/) 
--   📚 I’m currently learning everything about Frontend and Backend web technologies 😅
+-   🗒️ Current Project Work : [Oxylus - Previously as BizFund](https://github.com/Nexus-Bot/BizFundWeb) 
+-   📚 I’m currently learning about Data and Backend technologies like microservices, graphql, etc. 😅
 -   💪🏼 Future Goals: Learn more technologies and create awesome projects - Innovation Is Life.
 
 ---
