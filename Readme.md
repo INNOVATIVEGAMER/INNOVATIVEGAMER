@@ -6,7 +6,7 @@
 
 -   👨‍💻 I’m currently working on web development technologies like Next.js, Strapi, React, Node.js etc.
 -   🗒️ Past Experience: 
-  Software Developer Intern (Frontend) [Jan 2022 - Sept 2022] - Bytelearn (https://www.bytelearn.com/)
+- Software Developer Intern (Frontend) [Jan 2022 - Sept 2022] - Bytelearn (https://www.bytelearn.com/)
   1. Developed complex components with react-redux architecture and storybook examples which gave a flexible and scalable way to meet their future goals.
   2. Optimized student web portal using webpack and GZip compression which increased site performance by 45%.
   3. Integrated Sentry to track live errors and monitor site performance on various environment servers.
