@@ -2,10 +2,16 @@
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-## I'm a Informaton Technology Student (3rd Year B.Tech) at IIIT Sonepat
+## I'm a Informaton Technology Student (Final Year B.Tech) at IIIT Sonepat
 
--   👨‍💻 I’m currently working on web development technologies like React, Node.js etc.
--   🗒️ Current Project Work : [Oxylus - Previously as BizFund](https://github.com/Nexus-Bot/BizFundWeb) 
+-   👨‍💻 I’m currently working on web development technologies like Next.js, Strapi, React, Node.js etc.
+-   🗒️ Past Experience: 
+-   Software Developer (Frontend) - Bytelearn (https://www.bytelearn.com/)
+  1. Developed complex components with react-redux architecture and storybook examples which gave a flexible and scalable way to meet their future goals.
+  2. Optimized student web portal using webpack and GZip compression which increased site performance by 45%.
+  3. Integrated Sentry to track live errors and monitor site performance on various environment servers.
+  4. Developed SEO and marketing pages. Front-end using Next.js with usage of SSR and SSG. Headless CMS Strapi system integrated with nextjs to achieve the page speed      in the range of 97-100 as per google reports.
+  • Tech Involved: ReactJS, NextsJS, Redux, MaterialUI, Storybook, Typescript, Sentry, Strapi.
 -   📚 I’m currently learning about Data and Backend technologies like microservices, graphql, etc. 😅
 -   💪🏼 Future Goals: Learn more technologies and create awesome projects - Innovation Is Life.
 
