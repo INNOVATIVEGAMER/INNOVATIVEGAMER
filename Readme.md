@@ -6,13 +6,13 @@
 
 -   👨‍💻 I’m currently working on web development technologies like Next.js, Strapi, React, Node.js etc.
 -   🗒️ Past Experience:
--   Frontend Developer [Jan 2023 - Present] - Bytelearn (https://www.bytelearn.com/)
+  - Frontend Developer [Jan 2023 - Present] - Bytelearn (https://www.bytelearn.com/)
   1. Working with cross functional content, design and marketing teams to provide improved SEO and scalable technical architecture for the company’s organic growth.
   2. Developing and maintaining the architecture with headless CMS strapi and Nextjs to serve around 300 SEO pages live with lighthouse/google score of 90-95
   3. Troubleshooting and fixing bugs in the frontend platforms to ensure smooth operation of the application
   • Tech Involved: ReactJS, NextJS, Typescript, Strapi (CMS), Google Analytics, Segment.
 
-- Software Developer Intern (Frontend) [Jan 2022 - Sept 2022] - Bytelearn (https://www.bytelearn.com/)
+  - Software Developer Intern (Frontend) [Jan 2022 - Sept 2022] - Bytelearn (https://www.bytelearn.com/)
   1. Developed complex components with react-redux architecture and storybook examples which gave a flexible and scalable way to meet their future goals.
   2. Optimized student web portal using webpack and GZip compression which increased site performance by 45%.
   3. Integrated Sentry to track live errors and monitor site performance on various environment servers.
