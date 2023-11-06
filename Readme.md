@@ -2,18 +2,24 @@
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-## I'm a Informaton Technology Student (Final Year B.Tech) at IIIT Sonepat
+## I'm a Frontend Developer with specialization in React ecosystem (Redux, Next.js, MUI)
 
 -   👨‍💻 I’m currently working on web development technologies like Next.js, Strapi, React, Node.js etc.
--   🗒️ Past Experience: 
+-   🗒️ Past Experience:
+-   Frontend Developer [Jan 2023 - Present] - Bytelearn (https://www.bytelearn.com/)
+  1. Working with cross functional content, design and marketing teams to provide improved SEO and scalable technical architecture for the company’s organic growth.
+  2. Developing and maintaining the architecture with headless CMS strapi and Nextjs to serve around 300 SEO pages live with lighthouse/google score of 90-95
+  3. Troubleshooting and fixing bugs in the frontend platforms to ensure smooth operation of the application
+  • Tech Involved: ReactJS, NextJS, Typescript, Strapi (CMS), Google Analytics, Segment.
+
 - Software Developer Intern (Frontend) [Jan 2022 - Sept 2022] - Bytelearn (https://www.bytelearn.com/)
   1. Developed complex components with react-redux architecture and storybook examples which gave a flexible and scalable way to meet their future goals.
   2. Optimized student web portal using webpack and GZip compression which increased site performance by 45%.
   3. Integrated Sentry to track live errors and monitor site performance on various environment servers.
-  4. Developed SEO and marketing pages. Front-end using Next.js with usage of SSR and SSG. Headless CMS Strapi system integrated with nextjs to achieve the page speed      in the range of 97-100 as per google reports.
+  4. Developed SEO and marketing pages. Front-end using Next.js with usage of SSR and SSG. Headless CMS Strapi system integrated with nextjs.
   • Tech Involved: ReactJS, NextsJS, Redux, MaterialUI, Storybook, Typescript, Sentry, Strapi.
--   📚 I’m currently learning about Data and Backend technologies like microservices, graphql, etc. 😅
--   💪🏼 Future Goals: Learn more technologies and create awesome projects - Innovation Is Life.
+-   📚 I’m currently learning about Data and Backend technologies like nodejs, microservices, mongoDB etc. 😅
+-   💪🏼 Future Goals: Learn more technologies and create awesome projects - Innovation for the Good.
 
 ---
 
