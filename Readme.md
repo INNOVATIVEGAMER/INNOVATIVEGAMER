@@ -2,7 +2,7 @@
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-## I'm a Frontend Developer with specialization in React ecosystem (Redux, Next.js, MUI)
+## I'm a Frontend Developer with specialization in React ecosystem (Next.js, Tailwind, Shadcn, Redux, Zustand)
 
 -   👨‍💻 I’m currently working on web development technologies like Next.js, Strapi, React, Node.js etc.
 -   🗒️ Past Experience:
@@ -77,4 +77,5 @@
 [website]: https://github.com/INNOVATIVEGAMER
 [instagram]: https://www.instagram.com/prasad_patewar/
 [linkedin]: https://www.linkedin.com/in/prasad-patewar-b9066b204/
+
 
