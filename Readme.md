@@ -4,8 +4,7 @@
 
 ## I'm a Frontend Developer with specialization in React ecosystem (Next.js, Tailwind, Shadcn, Redux, Zustand)
 
--   👨‍💻 I’m currently working on web development technologies like Next.js, Strapi, React, Node.js etc.
--   🗒️ Past Experience:
+-   🗒️ Experience:
     - Frontend Developer [Sept 2024 - Present] - Vectorshift (https://vectorshift.ai/)
     1. Architected and implemented Agentic Chat with functional and agentic backend support.
     2. Led design system development using React, shadcn/ui, and Tailwind CSS as the product’s frontend foundation.
@@ -77,5 +76,6 @@
 [website]: https://github.com/INNOVATIVEGAMER
 [instagram]: https://www.instagram.com/prasad_patewar/
 [linkedin]: https://www.linkedin.com/in/prasad-patewar-b9066b204/
+
 
 
