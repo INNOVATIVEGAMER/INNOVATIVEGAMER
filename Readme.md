@@ -6,20 +6,30 @@
 
 -   👨‍💻 I’m currently working on web development technologies like Next.js, Strapi, React, Node.js etc.
 -   🗒️ Past Experience:
-    - Frontend Developer [Jan 2023 - Present] - Bytelearn (https://www.bytelearn.com/)
-    1. Working with cross functional content, design and marketing teams to provide improved SEO and scalable technical architecture for the company’s organic growth.
-    2. Developing and maintaining the architecture with headless CMS strapi and Nextjs to serve around 300 SEO pages live with lighthouse/google score of 90-95
-    3. Troubleshooting and fixing bugs in the frontend platforms to ensure smooth operation of the application
-    <br>• Tech Involved: ReactJS, NextJS, Typescript, Strapi (CMS), Google Analytics, Segment.
+    - Frontend Developer [Sept 2024 - Present] - Vectorshift (https://vectorshift.ai/)
+    1. Architected and implemented Agentic Chat with functional and agentic backend support.
+    2. Led design system development using React, shadcn/ui, and Tailwind CSS as the product’s frontend foundation.
+    3. Designed and implemented user onboarding flow that accelerated early B2C adoption.
+    4. Led product analytics platform implementation using PostHog to track user journeys, dropoffs, and error patterns.
+    5. Led comprehensive UI modernization from legacy to modern interface for AI Forms, AI Chats, and No Code features.
+<br><br>
+    - Frontend Developer [May 2024 - Sept 2024] - Superleap (https://www.superleap.com/)
+    1. Architected web platform foundation using Next.js, shadcn/ui, Tailwind, React Query, and Zustand.
+    2. Led design system development using Storybook and React for the entire Superleap application.
+    3. Developed reusable data type components enabling dynamic component architecture.
+<br><br>
+    - Frontend Developer [Jan 2023 - May 2024] - Bytelearn (https://www.bytelearn.com/)
+    1. Developed ByteLearn’s B2C web application, enabling live tutor sessions and a whiteboard feature. Integrated external third-party tools (Kommunicate and Agora) for P2P communication.
+    2. Developed multiple marketing flows for user growth in B2C. Integrated amplitude for analytics.
+    3. Revamped ByteLearn’s B2B student dashboard by creating modules for user history, open search (debounce calls), paginated data (user assignments), and a reward system (coins), significantly enhancing user engagement.
+    4. Architected a robust system using headless CMS Strapi and Next.js, successfully serving over 1200 SEO pages with a consistent Lighthouse/Google score of 90-95.
 <br><br>
     - Software Developer Intern (Frontend) [Jan 2022 - Sept 2022] - Bytelearn (https://www.bytelearn.com/)
-    1. Developed complex components with react-redux architecture and storybook examples which gave a flexible and scalable way to meet their future goals.
-    2. Optimized student web portal using webpack and GZip compression which increased site performance by 45%.
-    3. Integrated Sentry to track live errors and monitor site performance on various environment servers.
-    4. Developed SEO and marketing pages. Front-end using Next.js with usage of SSR and SSG. Headless CMS Strapi system integrated with nextjs.
-    <br>• Tech Involved: ReactJS, NextsJS, Redux, MaterialUI, Storybook, Typescript, Sentry, Strapi.
--   📚 I’m currently learning about Data and Backend technologies like nodejs, microservices, mongoDB etc. 😅
--   💪🏼 Future Goals: Learn more technologies and create awesome projects - Innovation for the Good.
+    1. Developed complex components with react-redux architecture and storybook examples.
+    2.  Optimized the platform by implementing webpack and GZip compression, resulting in a 45% increase in site performance.
+    3.  Integrated Sentry to track live errors and monitor site performance on various environment servers.
+       
+-   💪🏼 Goals: Learn more technologies and create awesome projects - Innovation for the Good.
 
 ---
 
@@ -67,3 +77,4 @@
 [website]: https://github.com/INNOVATIVEGAMER
 [instagram]: https://www.instagram.com/prasad_patewar/
 [linkedin]: https://www.linkedin.com/in/prasad-patewar-b9066b204/
+
