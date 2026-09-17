@@ -99,13 +99,6 @@ B.Tech in Information Technology, IIIT Sonepat, 2019 to 2023.
 Storybook, BullMQ, MongoDB, Zod, Railway, GitHub Actions, Sentry, OpenTelemetry, k6.
 Anthropic, OpenAI and Gemini SDKs, MCP servers, structured outputs, prompt and schema design.
 
----
-
-<div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=INNOVATIVEGAMER&show_icons=true&include_all_commits=true&count_private=true&theme=react&line_height=40" alt="Prasad Patewar's GitHub stats" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=INNOVATIVEGAMER&theme=react&line_height=40&hide=css&layout=compact" alt="Top languages" />
-</div>
-
 [linkedin]: https://www.linkedin.com/in/prasad-patewar-b9066b204/
 [email]: mailto:prasadpatewar39@gmail.com
 [nexuslabs]: https://github.com/nexuslabs-ai
