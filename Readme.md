@@ -1,81 +1,117 @@
-# Hi there, I'm Prasad - aka [INNOVATIVEGAMER][website] <img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />
+# Prasad Patewar
 
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+**Full-stack engineer, 3+ years, currently co-founder and CTO.** I take ownership of
+whole systems rather than slices: the architecture, the delivery, the standards a
+team builds to, and the results once they are live.
 
-## I'm a Frontend Developer with specialization in React ecosystem (Next.js, Tailwind, Shadcn, Redux, Zustand)
-
--   🗒️ Experience:
-    - Frontend Developer [Sept 2024 - Present] - Vectorshift (https://vectorshift.ai/)
-    1. Architected and implemented Agentic Chat with functional and agentic backend support.
-    2. Led design system development using React, shadcn/ui, and Tailwind CSS as the product’s frontend foundation.
-    3. Designed and implemented user onboarding flow that accelerated early B2C adoption.
-    4. Led product analytics platform implementation using PostHog to track user journeys, dropoffs, and error patterns.
-    5. Led comprehensive UI modernization from legacy to modern interface for AI Forms, AI Chats, and No Code features.
-<br><br>
-    - Frontend Developer [May 2024 - Sept 2024] - Superleap (https://www.superleap.com/)
-    1. Architected web platform foundation using Next.js, shadcn/ui, Tailwind, React Query, and Zustand.
-    2. Led design system development using Storybook and React for the entire Superleap application.
-    3. Developed reusable data type components enabling dynamic component architecture.
-<br><br>
-    - Frontend Developer [Jan 2023 - May 2024] - Bytelearn (https://www.bytelearn.com/)
-    1. Developed ByteLearn’s B2C web application, enabling live tutor sessions and a whiteboard feature. Integrated external third-party tools (Kommunicate and Agora) for P2P communication.
-    2. Developed multiple marketing flows for user growth in B2C. Integrated amplitude for analytics.
-    3. Revamped ByteLearn’s B2B student dashboard by creating modules for user history, open search (debounce calls), paginated data (user assignments), and a reward system (coins), significantly enhancing user engagement.
-    4. Architected a robust system using headless CMS Strapi and Next.js, successfully serving over 1200 SEO pages with a consistent Lighthouse/Google score of 90-95.
-<br><br>
-    - Software Developer Intern (Frontend) [Jan 2022 - Sept 2022] - Bytelearn (https://www.bytelearn.com/)
-    1. Developed complex components with react-redux architecture and storybook examples.
-    2.  Optimized the platform by implementing webpack and GZip compression, resulting in a 45% increase in site performance.
-    3.  Integrated Sentry to track live errors and monitor site performance on various environment servers.
-       
--   💪🏼 Goals: Learn more technologies and create awesome projects - Innovation for the Good.
+Based in Bengaluru, India. [LinkedIn][linkedin] · [Nexus Labs][nexuslabs] · [Email][email]
 
 ---
 
-### Contact with me 📝
+## What I'm building
 
-[<img align="left" alt="bilgehangecici.site" width="40px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />][website]
-[<img align="left" alt="bilgehangecici | LinkedIn" width="35px" src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif" />][linkedin]
-[<img align="left" alt="bilgehangecici | Instagram" width="40px" src="https://thumbs.gfycat.com/OrnateOrneryFoal-max-1mb.gif" />][instagram]
+### [Nexus Design System][nexus] &nbsp;·&nbsp; [`@nexus_ds/core`][npm] ![npm](https://img.shields.io/npm/v/@nexus_ds/core?style=flat-square&color=CB3837&logo=npm&logoColor=white)
 
-<br />
+Lead maintainer. A design system built as a **portable token engine** rather than a
+component library, so one source of theme values can be adopted by any framework,
+or by an app that already has its own CSS.
+
+- The core engine imports no framework and touches no DOM. It is a pure function
+  from appearance state to token values, which makes Vue, Svelte or React Native a
+  binding rather than a second design system. React is the first, at 63 components.
+- Every utility and variable ships behind an `nx:` namespace, so it installs beside
+  an existing Tailwind config with two CSS imports and no config merge. That merge is
+  usually the thing that blocks adoption outright.
+- Components are vendored into the consuming app, so a team owns and edits the source
+  while the token layer stays a versioned package. Ownership without four apps quietly
+  drifting into four different themes.
+- Changesets versioning, automated npm publishing via GitHub Actions, and an
+  external-consumer bed that proves the install path on every change.
+
+### [Context Engine][context-engine]
+
+Lead maintainer. An MCP server that stops AI assistants hallucinating props against a
+custom component library.
+
+- Pulls component metadata straight from source with `react-docgen` and `ts-morph`,
+  enriches it through an LLM pass, and serves it to Claude, Cursor and Copilot over MCP.
+- Hono API on Postgres and pgvector for semantic component search, split into core,
+  db and server packages.
+
+### Examlly
+
+Co-founder and CTO. An AI question-paper platform for NEET and JEE prep, architected
+as a B2B product for institutes and a B2C app for individual teachers off one core.
+Closed source.
+
+- 700+ PRs across 8 services, 12 packages and 29 job queues in one TypeScript
+  monorepo (Next.js, Hono, BullMQ).
+- A scanned paper becomes a tagged, searchable question bank via Mathpix OCR, per-page
+  LLM structuring and RDKit for chemistry, behind one provider layer over Anthropic,
+  Gemini, OpenAI, Azure and Mistral, with cost tracking and failover.
+- An 87-table multi-tenant Postgres schema (Drizzle, Supabase RLS, 210 forward-only
+  migrations) carrying RBAC, billing, attendance and timetabling.
+- Paper production front to back: LaTeX diagram compilation, PDF and Word export,
+  jumbled sets, and OMR scanning that grades offline exams into per-student analytics.
+- Set the engineering standards, then automated them: 18 repo rules, 13 skills,
+  6 subagents and 10 commands running the loop from issue to implementation to review,
+  plus a self-hosted MCP docs server. It is how two people shipped at this rate.
 
 ---
 
-### Languages and Tools 🛠
+## Where I've worked
 
-![C](http://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=ffffff)
-![C++](http://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c++)
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=ffffff)
-![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=ffffff)
-![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
-![CSS](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
-![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=Bootstrap)
-![Material-UI](https://img.shields.io/badge/-MaterialUI-0081CB?style=flat-square&logo=Material-UI)
-![Npm](https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=ffffff)
-![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
-![Powershell](http://img.shields.io/badge/-Powershell-5391FE?style=flat-square&logo=powershell&logoColor=ffffff)
-![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
+| Role | Company | When |
+| ---- | ------- | ---- |
+| Co-founder and CTO | Examlly | Nov 2025 to present |
+| Founding Engineer | [Vectorshift][vectorshift] (YC) | Sept 2024 to Nov 2025 |
+| Founding Engineer | [Superleap][superleap] | May 2024 to Sept 2024 |
+| Software Developer | [Bytelearn][bytelearn] | Jan 2023 to May 2024 |
+| Software Developer Intern | [Bytelearn][bytelearn] | Jan 2022 to Sept 2022 |
 
-<br/>
+At Vectorshift I architected and shipped Agentic Chat front to back, built the design
+system that became the product's frontend foundation, and led the rewrite of AI Forms,
+AI Chats and No-Code off the legacy interface, lifting weekly active users by 80%.
+
+B.Tech in Information Technology, IIIT Sonepat, 2019 to 2023.
 
 ---
 
-  <h2 align="center"> Github Statistics 📈 </h2>
-  
-  <div align="center">    
-      <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=INNOVATIVEGAMER&show_icons=true&include_all_commits=true&count_private=true&theme=react&line_height=40" />
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=INNOVATIVEGAMER&theme=react&line_height=40&hide=css"/>
-</div
+## Stack
 
-[website]: https://github.com/INNOVATIVEGAMER
-[instagram]: https://www.instagram.com/prasad_patewar/
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-5FA04E?style=flat-square&logo=node.js&logoColor=white)
+![Hono](https://img.shields.io/badge/-Hono-E36002?style=flat-square&logo=hono&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Drizzle](https://img.shields.io/badge/-Drizzle-C5F74F?style=flat-square&logo=drizzle&logoColor=black)
+![Supabase](https://img.shields.io/badge/-Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-FF4438?style=flat-square&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Turborepo](https://img.shields.io/badge/-Turborepo-EF4444?style=flat-square&logo=turborepo&logoColor=white)
+![Playwright](https://img.shields.io/badge/-Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+![Vitest](https://img.shields.io/badge/-Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white)
+![MCP](https://img.shields.io/badge/-MCP-000000?style=flat-square&logo=anthropic&logoColor=white)
+
+**Also:** SQL, C++, Radix UI, shadcn/ui, TanStack Query, Zustand, React Hook Form,
+Storybook, BullMQ, MongoDB, Zod, Railway, GitHub Actions, Sentry, OpenTelemetry, k6.
+Anthropic, OpenAI and Gemini SDKs, MCP servers, structured outputs, prompt and schema design.
+
+---
+
+<div align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=INNOVATIVEGAMER&show_icons=true&include_all_commits=true&count_private=true&theme=react&line_height=40" alt="Prasad Patewar's GitHub stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=INNOVATIVEGAMER&theme=react&line_height=40&hide=css&layout=compact" alt="Top languages" />
+</div>
+
 [linkedin]: https://www.linkedin.com/in/prasad-patewar-b9066b204/
-
-
-
+[email]: mailto:prasadpatewar39@gmail.com
+[nexuslabs]: https://github.com/nexuslabs-ai
+[nexus]: https://github.com/nexuslabs-ai/nexus
+[context-engine]: https://github.com/nexuslabs-ai/context-engine
+[npm]: https://www.npmjs.com/package/@nexus_ds/core
+[vectorshift]: https://vectorshift.ai/
+[superleap]: https://www.superleap.com/
+[bytelearn]: https://www.bytelearn.com/
