@@ -10,7 +10,7 @@ Based in Bengaluru, India. [LinkedIn][linkedin] · [Nexus Labs][nexuslabs] · [E
 
 ## What I'm building
 
-### [Nexus Design System][nexus] &nbsp;·&nbsp; [`@nexus_ds/core`][npm] ![npm](https://img.shields.io/npm/v/@nexus_ds/core?style=flat-square&color=CB3837&logo=npm&logoColor=white)
+### [nxds][nxds] &nbsp;·&nbsp; [`@nxds/core`][npm] ![npm](https://img.shields.io/npm/v/@nxds/core?style=flat-square&color=CB3837&logo=npm&logoColor=white)
 
 Lead maintainer. A design system built as a **portable token engine** rather than a
 component library, so one source of theme values can be adopted by any framework,
@@ -102,9 +102,9 @@ Anthropic, OpenAI and Gemini SDKs, MCP servers, structured outputs, prompt and s
 [linkedin]: https://www.linkedin.com/in/prasad-patewar-b9066b204/
 [email]: mailto:prasadpatewar39@gmail.com
 [nexuslabs]: https://github.com/nexuslabs-ai
-[nexus]: https://github.com/nexuslabs-ai/nexus
+[nxds]: https://nxds.dev
 [context-engine]: https://github.com/nexuslabs-ai/context-engine
-[npm]: https://www.npmjs.com/package/@nexus_ds/core
+[npm]: https://www.npmjs.com/package/@nxds/core
 [vectorshift]: https://vectorshift.ai/
 [superleap]: https://www.superleap.com/
 [bytelearn]: https://www.bytelearn.com/
